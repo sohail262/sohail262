@@ -13,16 +13,25 @@ My focus is on creating solutions that are practical, scalable, and add measurab
 ## 🔧 Tech Stack
 **Languages:** Python, SQL, Java, HTML, CSS, JavaScript  
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Bootstrap, Tailwind, React  
-**Tools & Platforms:** Power BI, Firebase, Google Cloud, Git, VS Code  
+**Tools & Platforms:** Power BI, Firebase, Google Cloud, AWS, Git, VS Code  
 
 ---
 
-## 🌟 Selected Projects
-- **HR Analytics Prediction Model** – Designed a machine learning model to analyze and predict employee attrition.  
-- **Bank Deposit Prediction** – Built a classification model to forecast customer deposit behavior.  
+## 🌟 Selected Projects  
+
+### Data Science & Analytics  
+- **HR Analytics Prediction Model** – Machine learning model to analyze and predict employee attrition.  
+- **Bank Deposit Prediction** – Classification model to forecast customer deposit behavior.  
 - **Result Analysis Dashboard (Power BI)** – Automated academic data processing & visualization.  
-- **House-Wise Performance Dashboard (Power BI)** – Enabled comparative insights across academic houses.  
-- **Lost & Found Portal (Firebase)** – Developed a real-time platform for reporting and managing lost items.  
+- **Syllabus Tracker BI Dashboard (Power BI)** – Simplified academic progress tracking for educators.  
+- **House-Wise Performance Dashboard (Power BI)** – Comparative insights across student houses.  
+
+### Web Development  
+- **Interdisciplinary Project Collaboration Portal (Upcoming Startup)** – Role-based platform to connect students across domains for collaborative project development.  
+- **Lost and Found Portal** – Real-time Firebase-based portal for reporting and managing lost & found items.  
+- **Farmers & Restaurant Connect (Webathon 1.0 Winner)** – Built a platform to connect farmers directly with restaurants for better supply-chain efficiency.  
+- **University Event Management System (Webathon 2.0 Winner)** – Developed a responsive event management system for seamless scheduling and participation at the university level.  
+- **Personal Portfolio Website** – Responsive portfolio site built with React & Tailwind CSS.  
 
 ---
 
