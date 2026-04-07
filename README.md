@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sohail262&icon=0&color=6"/>
+    <img src="https://visitcount.itsvg.in/api?id=sohail262&icon=0&color=0"/>
   </a>
 </div>
 
@@ -439,6 +439,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
+
 <h2 align="center">GITHUB STATS</h2>
 
 <br/>
@@ -459,14 +460,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sohail262&icon=0&color=0"/>
-  </a>
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
@@ -479,48 +472,6 @@
   <img src="https://img.shields.io/badge/Open%20To%20Work-AI%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/mdsohail032" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mohd26sohail@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=120&section=footer&animation=fadeIn"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack%20Developer-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Work-Python%20Developer-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To%20Work-AI%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/mdsohail032" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mohd26sohail@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=120&section=footer&animation=fadeIn"/>
-</div>
 <br/>
 
 <div align="center">
