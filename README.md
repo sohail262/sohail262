@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=200&section=header&text=Mohammed%20Sohail&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descFontSize=16&descFontColor=f0e6ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?--type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=200&section=header&text=Mohammed%20Sohail&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descFontSize=16&descFontColor=f0e6ff"/>
 </div>
 
 <br/>
@@ -35,11 +35,11 @@
       <table>
         <tr>
           <td><img src="https://img.shields.io/badge/University-0a0a0a?style=flat-square&logo=academia&logoColor=ec38bc"/></td>
-          <td>B.Tech CSE — Data Science @ NMIMS Hyderabad</td>
+          <td>B.Tech CSE - Data Science @ NMIMS Hyderabad</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Batch-0a0a0a?style=flat-square&logo=googlecalendar&logoColor=ec38bc"/></td>
-          <td>2022 — 2026 | CGPA 3.15 / 4.0</td>
+          <td>2022 - 2026 | CGPA 3.15 / 4.0</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Location-0a0a0a?style=flat-square&logo=googlemaps&logoColor=ec38bc"/></td>
@@ -47,11 +47,11 @@
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Internship-0a0a0a?style=flat-square&logo=briefcase&logoColor=ec38bc"/></td>
-          <td>Full Stack Dev — Nexus Startup | Nov 2024 — Jun 2025</td>
+          <td>Full Stack Dev - Nexus Startup | Nov 2024 - Jun 2025</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Research-0a0a0a?style=flat-square&logo=googlescholar&logoColor=ec38bc"/></td>
-          <td>Published — IICTDS 2025, EAI Publication</td>
+          <td>Published - IICTDS 2025, EAI Publication</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=ec38bc"/></td>
@@ -70,23 +70,6 @@
         <img src="https://img.shields.io/badge/Open%20To-Cloud%20Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
       </p>
     </td>
-
-<td width="45%" valign="top" align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohail262&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800"
-  />
-
-  <br/><br/>
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=sohail262&theme=transparent&hide_border=true"
-  />
-
-</td>
-
 
   </tr>
 </table>
@@ -156,8 +139,8 @@
       <img src="https://img.shields.io/badge/DeepSeek%20R1-000000?style=flat-square&logo=openai&logoColor=white"/>
       <p>AI-enhanced platform bridging interdisciplinary collaboration across engineering, pharmacy, law and data science. Role-based intelligent matching powered by DeepSeek R1.</p>
       <ul>
-        <li>1st Place — Project Expo, NMIMS Hyderabad</li>
-        <li>Published at IICTDS 2025 — EAI Publication</li>
+        <li>1st Place - Project Expo, NMIMS Hyderabad</li>
+        <li>Published at IICTDS 2025 - EAI Publication</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -170,7 +153,7 @@
       <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
       <p>Comprehensive lab management system with real-time screen sharing via WebRTC. Live session management across Firebase-powered real-time infrastructure.</p>
       <ul>
-        <li>2nd Place — IEEE Vibe Coding Hackathon, NMIMS Hyderabad</li>
+        <li>2nd Place - IEEE Vibe Coding Hackathon, NMIMS Hyderabad</li>
         <li>Real-time screen sharing and resource allocation</li>
       </ul>
     </td>
@@ -186,7 +169,7 @@
       <img src="https://img.shields.io/badge/AI%20Powered-4285F4?style=flat-square&logo=google&logoColor=white"/>
       <p>AI-driven patient intake, bed management, emergency response and intelligent prescription support. Built for high-pressure healthcare environments.</p>
       <ul>
-        <li>1st Place — AI4Health Competition, NMIMS Hyderabad</li>
+        <li>1st Place - AI4Health Competition, NMIMS Hyderabad</li>
         <li>Real-time emergency resource allocation engine</li>
       </ul>
     </td>
@@ -200,7 +183,7 @@
       <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
       <p>Mentorship platform with 1:1 video sessions, job postings, referral requests and a visual alumni network graph explorer. Built at NM Hacks.</p>
       <ul>
-        <li>Runner-Up — NM Hacks, NMIMS Hyderabad</li>
+        <li>Runner-Up - NM Hacks, NMIMS Hyderabad</li>
         <li>Visual network graph and referral pipeline</li>
       </ul>
     </td>
@@ -216,7 +199,7 @@
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
       <p>Full stack event portal with multi-level approval dashboard, club admin and student portals, event gallery and real-time notifications.</p>
       <ul>
-        <li>1st Place — Webathon 2.0, CodeIT STME Hyderabad</li>
+        <li>1st Place - Webathon 2.0, CodeIT STME Hyderabad</li>
         <li>Multi-role system with real-time Firebase sync</li>
       </ul>
     </td>
@@ -230,7 +213,7 @@
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
       <p>Marketplace connecting urban farms directly with consumers and restaurants. Email domain verification differentiates farmers, consumers and restaurant partners.</p>
       <ul>
-        <li>1st Place — Webathon 1.0, CodeIT STME Hyderabad</li>
+        <li>1st Place - Webathon 1.0, CodeIT STME Hyderabad</li>
         <li>Direct farm-to-table supply chain integration</li>
       </ul>
     </td>
@@ -291,7 +274,7 @@
       <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gmail%20OAuth-D14836?style=flat-square&logo=gmail&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <p>Automated event interest collection and response system built in 2 hours using N8N. Gmail OAuth triggers auto-responses on form submission — zero manual follow-up.</p>
+      <p>Automated event interest collection and response system built in 2 hours using N8N. Gmail OAuth triggers auto-responses on form submission - zero manual follow-up.</p>
       <ul>
         <li>Built and deployed in under 2 hours</li>
         <li>Fully automated form-to-email pipeline</li>
@@ -359,8 +342,8 @@
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/Published-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white"/></td>
-        <td>Research Paper — IICTDS 2025</td>
-        <td>NMIMS Chandigarh — EAI Publication</td>
+        <td>Research Paper - IICTDS 2025</td>
+        <td>NMIMS Chandigarh - EAI Publication</td>
         <td align="center">2025</td>
       </tr>
     </tbody>
@@ -384,31 +367,31 @@
       <table width="100%">
         <tr>
           <td><img src="https://img.shields.io/badge/HEAD-6e40c9?style=flat-square&logoColor=white"/></td>
-          <td>ELGE Club, NMIMS Hyderabad — 6th Semester</td>
+          <td>ELGE Club, NMIMS Hyderabad - 6th Semester</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/MENTOR-0A66C2?style=flat-square&logoColor=white"/></td>
-          <td>ELGE Club, NMIMS Hyderabad — Current</td>
+          <td>ELGE Club, NMIMS Hyderabad - Current</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/ORGANIZER-FF6C37?style=flat-square&logoColor=white"/></td>
-          <td>NM Sharks 2025 — 11 teams, 8 secured mentorship awards</td>
+          <td>NM Sharks 2025 - 11 teams, 8 secured mentorship awards</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/SPEAKER-ec38bc?style=flat-square&logoColor=white"/></td>
-          <td>IEEE Vibe Coding Hackathon — Day 1 Speaker</td>
+          <td>IEEE Vibe Coding Hackathon - Day 1 Speaker</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/COORDINATOR-F7931E?style=flat-square&logoColor=white"/></td>
-          <td>Design Thinking Workshop, IIC STME — 100+ students</td>
+          <td>Design Thinking Workshop, IIC STME - 100+ students</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/OUTREACH-4CAF50?style=flat-square&logoColor=white"/></td>
-          <td>Computer Literacy Workshop — Kothamolgara Village, Rotary Club</td>
+          <td>Computer Literacy Workshop - Kothamolgara Village, Rotary Club</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/ATTENDEE-FF9900?style=flat-square&logoColor=white"/></td>
-          <td>E-Summit 2024 — IIT Bombay</td>
+          <td>E-Summit 2024 - IIT Bombay</td>
         </tr>
       </table>
     </td>
@@ -417,12 +400,12 @@
       <table width="100%">
         <tr>
           <td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></td>
-          <td>AWS Academy Graduate — Cloud Architecting</td>
+          <td>AWS Academy Graduate - Cloud Architecting</td>
           <td align="center">2025</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></td>
-          <td>AWS Academy Graduate — Cloud Foundations</td>
+          <td>AWS Academy Graduate - Cloud Foundations</td>
           <td align="center">2025</td>
         </tr>
         <tr>
@@ -437,7 +420,7 @@
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/BITS-003366?style=flat-square&logoColor=white"/></td>
-          <td>Data Science Workshop — BITS Pilani Hyderabad</td>
+          <td>Data Science Workshop - BITS Pilani Hyderabad</td>
           <td align="center">2024</td>
         </tr>
       </table>
