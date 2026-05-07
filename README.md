@@ -70,11 +70,24 @@
         <img src="https://img.shields.io/badge/Open%20To-Cloud%20Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
       </p>
     </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sohail262&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
-      <br/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sohail262&theme=dark&hide_border=false" width="100%"/>
-    </td>
+
+<td width="45%" valign="top" align="center">
+
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohail262&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800"
+  />
+
+  <br/><br/>
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=sohail262&theme=transparent&hide_border=true"
+  />
+
+</td>
+
+
   </tr>
 </table>
 
