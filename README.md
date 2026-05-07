@@ -443,11 +443,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail262&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img 
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohail262&show_icons=true&theme=transparent&hide_border=true&count_private=true"
+/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=sohail262&theme=dark&hide_border=false"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail262&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<img 
+  height="170"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sohail262&layout=donut&theme=transparent&hide_border=true"
+/>
+
+
 </div>
 
 <br/>
