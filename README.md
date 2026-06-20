@@ -44,7 +44,7 @@
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Batch-0a0a0a?style=flat-square&logo=googlecalendar&logoColor=ec38bc"/></td>
-          <td>2022 - 2026 | CGPA 3.15 / 4.0</td>
+          <td>2022 - 2026 | CGPA 3.21 / 4.0</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Location-0a0a0a?style=flat-square&logo=googlemaps&logoColor=ec38bc"/></td>
