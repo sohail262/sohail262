@@ -4,8 +4,7 @@
     width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,30:7303c0,60:ec38bc,100:fdeff9&height=200&section=header&text=Mohammed%20Sohail&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descFontSize=16&descFontColor=f0e6ff"
   />
-</div>
-[![Procollab Streak](https://img.shields.io/badge/Procollab%20Streak-🔥%200%20Days-orange?style=for-the-badge&logo=fire)](https://procollab.app/profile/Mohammed Sohail)
+
 
 <br/>
 
