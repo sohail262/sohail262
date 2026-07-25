@@ -7,7 +7,7 @@
 
 
 <br/>
-[![Procollab Streak](https://img.shields.io/badge/Procollab%20Streak-🔥%200%20Days-orange?style=for-the-badge&logo=fire)](https://procollab.in/u/sohail26)
+[![Procollab Streak](https://img.shields.io/badge/Procollab_Streak-1_Days_Streak-orange?style=for-the-badge)](https://procollab.in/u/sohail26)
 
 <div align="center">
   <a href="https://linkedin.com/in/mdsohail032" target="_blank">
