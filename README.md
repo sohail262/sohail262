@@ -149,9 +149,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail262&show_icons=true&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sohail262&show_icons=true&theme=onedark&hide_border=true"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail262&layout=compact&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sohail262&layout=compact&theme=onedark&hide_border=true"/>
 </div>
 <br/>
 
