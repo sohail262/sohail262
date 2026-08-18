@@ -7,7 +7,7 @@
 
 
 <br/>
-<a href="https://procollab.in/u/sohail26"><img src="https://img.shields.io/badge/Procollab_Streak-1_Days-orange?style=for-the-badge" alt="Procollab Streak" /></a>
+<a href="https://procollab.in/u/sohail26"><img src="https://img.shields.io/badge/Procollab_Profile-orange?style=for-the-badge" alt="Procollab Profile" /></a>
 <div align="center">
   <a href="https://linkedin.com/in/mdsohail032" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Sohail-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
