@@ -144,14 +144,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sohail262&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sohail262&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sohail262&show_icons=true&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=sohail262&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/>
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sohail262&layout=compact&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sohail262&layout=compact&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
 
